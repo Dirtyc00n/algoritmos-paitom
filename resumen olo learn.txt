@@ -1,0 +1,29 @@
+Resumen sololearn:
+Variables:                                 			 numericos
+-string(str)                                                  += +(adicion)
+-introducir(int)                                          -= - (diferencia o sustraccion )
+-flotante(float)                                          x=* (multiplicar)
+-boleano(v or f)                                         o/o= / (division)
+                                                                    //=división sin desimal (truncar)
+
+
+
+
+Operaciones de comparación:
+< = menor o igual que   == igual que     >= mayor o igual que   != distinto que 
+Entrada y salida : input(ingresar), print(mostrar)
+Broken= romper y terminar código
+Continue= termina una función y continua el código
+\n=salto de línea
+(1,10,1)= el primer numero es el comienzo de una medida el segundo el termino el
+ tercero es con paso
+Condicionales y bucles:
+If, elif y else:
+Si la condición es verdadera se ejecutara la variable dentro del primer bloque, 
+si pasa a la segunda condicional (por detectarce como falsa) elif derivara al
+ segundo bloque, y si no cumple con estas 2 pasara a else y terminar el ciclo.
+Ciclo while:
+Ejecuta un código hasta que se cumpla una condición.
+Ciclo for:
+Ciclo que se ejecutara hasta que se cumpla una condición, tiene una variable 
+que aumenta en uno su valor (puede disminuir mediante el incremento) 

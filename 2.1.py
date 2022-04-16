@@ -1,0 +1,8 @@
+print ("Dime un numero")
+primerNumero = int(input())
+print ("Dime otro numero")
+segundoNumero = int(input())
+print ("dime otro numero")
+tercerNumero = int(input())
+print ("su multiplicacion es")
+print  (primerNumero * segundoNumero * tercerNumero)
